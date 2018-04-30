@@ -1,2 +1,2 @@
 # CFMChallenge
-Machine Learning notebooks for the CFN data challenge
+Machine Learning notebooks for the CFM data challenge
